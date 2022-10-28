@@ -1,0 +1,82 @@
+// 共通設定
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+p{
+    margin: 10px;
+}
+
+#container{
+    width: 300px;
+    height: 200px;
+}
+
+.box1{
+    background-color: #EFE0B5;
+}
+.box2{
+    background-color: #A8B7CD;
+}
+.box3{
+    background-color: #A5CEB6;
+}
+ul{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(198, 196, 196);
+    li{
+        width: 50px;
+        height: 50px;
+        border: 1px solid rgb(56, 56, 56);
+    }
+}
+
+
+
+// liを横並びにする
+.container1{
+    ul{
+        
+        li{
+
+        }
+    }
+}
+
+// liを左右真ん中にする
+.container2{
+    ul{
+
+        li{
+
+        }
+    }
+}
+
+// liを上下真ん中にする
+.container3{
+    ul{
+
+        li{
+
+        }
+    }
+}
+
+// liを右揃えにする
+.container4{
+    ul{
+
+        li{
+
+        }
+    }
+}
+
+
