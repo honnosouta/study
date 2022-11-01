@@ -11,6 +11,13 @@ function throwAway(food){
     // 捨てる処理
     delete food;
 }
+const cutCarrot = cut(carrot);
+const cutPotato = cut(carrot);
+
+function throwAway(food){
+    // 捨てる処理
+    delete food;
+}
 
 
 
