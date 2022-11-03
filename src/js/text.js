@@ -27,13 +27,3 @@ function isTweetable(text){
     }
 }
 alertTwwtable("foo");
-
-
-function isTweetable(text){
-    return (text.length <= 140){
-        alert("you can tweet!")
-    }
-}
-alertTwwtable("foo");
-
-

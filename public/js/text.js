@@ -11,13 +11,6 @@ function throwAway(food){
     // 捨てる処理
     delete food;
 }
-const cutCarrot = cut(carrot);
-const cutPotato = cut(carrot);
-
-function throwAway(food){
-    // 捨てる処理
-    delete food;
-}
 
 
 
@@ -34,13 +27,3 @@ function isTweetable(text){
     }
 }
 alertTwwtable("foo");
-
-
-function isTweetable(text){
-    return (text.length <= 140){
-        alert("you can tweet!")
-    }
-}
-alertTwwtable("foo");
-
-
